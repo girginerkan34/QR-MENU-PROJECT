@@ -4,7 +4,9 @@ Bu proje, bir restoran menüsü programının temel özelliklerini içerir. Kull
 
 # Ekran Görüntüleri
 
-# Menu
+![](QR-Menu.gif)
+
+
 
 # Özellikler
 
@@ -24,4 +26,4 @@ Kategori seçeneklerine tıklanarak istenilen kategoriye ait ürünler listeleni
 # Katkı
 
 Herhangi bir hata bulursanız veya geliştirmeye katkıda bulunmak isterseniz, lütfen bir konu açın veya bir istek gönderin. Katkılarınızı memnuniyetle karşılarız.
-# QR-MENU-PROJECT
+
